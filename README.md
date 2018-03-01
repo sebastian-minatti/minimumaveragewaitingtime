@@ -27,22 +27,21 @@ Cook does not know about the future orders.
 
 Sample Input #00
 
-3
-0 3
-1 9
-2 6
-Sample Output #00
+3   
+0 3  
+1 9  
+2 6  
+Sample Output #00 
+9  
+Sample Input #01  
 
-9
-Sample Input #01
-
-3
-0 3
-1 9
-2 5
-Sample Output #01
-
-8
+3   
+0 3   
+1 9   
+2 5   
+Sample Output #01   
+   
+8   
 Explanation #01
 
 Let's call the person ordering at time = 0 as A, time = 1 as B and time = 2 as C. By delivering pizza for A, C and B we get the minimum average wait time to be
